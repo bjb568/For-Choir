@@ -1,6 +1,7 @@
 # For-Choir
 
 - [Score PDF](https://bjb568.github.io/For-Choir/Score.pdf)
+- [Piano Reduction PDF (with chords)](https://bjb568.github.io/For-Choir/Piano-Reduction.pdf)
 
 ## Audio (piano)
 
